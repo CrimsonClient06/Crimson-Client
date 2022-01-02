@@ -1,1 +1,2 @@
 Added The ChangeLogs Directory for those who would like to see new features (GITHUB FILE DOWNLOAD)
+Added Ore Textures and a default template for things we will do in the future
