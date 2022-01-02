@@ -1,1 +1,1 @@
-Added ######
+Added The ChangeLogs Directory for those who would like to see new features (GITHUB FILE DOWNLOAD)
