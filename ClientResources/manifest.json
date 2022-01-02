@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§cFiles For The Client",
+        "name": "Crimson Client Resources",
+        "uuid": "8952ecc4-fbc4-4656-b64d-9e13e38b0590",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "§cFiles For The Client",
+            "type": "resources",
+            "uuid": "9514f44a-e7e7-4571-8f9a-9a22e3d05de9",
+            "version": [1, 0, 0]
+        }
+    ]
+}
